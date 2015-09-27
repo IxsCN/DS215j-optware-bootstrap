@@ -16,7 +16,7 @@ Add the following line to /etc/profile:
 PATH=/opt/bin:/opt/sbin:$PATH
 ```
 # Finish
-Thanks André [André](http://freshest.me/bootstrap-ds215j/)
+Thanks [André](http://freshest.me/bootstrap-ds215j/)
 
 
 [My blog](blog.marixs.com)
