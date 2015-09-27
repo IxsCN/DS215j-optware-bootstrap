@@ -3,7 +3,8 @@ Synology DS215j optware manual bootstrap guide.
 # Introduction
 There's no xsh bootstrap for the ds215j,So this is a small guide to setup manually the optware environment. 
 # Upload script
-Download ```openware.sh``` and upload to```/usr/local/etc/rc.d/``` directory then  make it executable```chmod +x /usr/local/etc/rc.d/optware.sh```
+Download ```openware.sh``` and upload to```/usr/local/etc/rc.d/``` directory 
+then  make it executable```chmod +x /usr/local/etc/rc.d/optware.sh```
 # Install
 Run this command
 ```
