@@ -19,7 +19,7 @@ PATH=/opt/bin:/opt/sbin:$PATH
 Thanks [André](http://freshest.me/bootstrap-ds215j/)
 
 
-[My blog](blog.marixs.com)
+[My blog](https://stray.love)
 
 
 If you upgrade the system?  Ok optware is always there.
